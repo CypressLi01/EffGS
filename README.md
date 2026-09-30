@@ -42,5 +42,5 @@ EffGS improves the quality-efficiency trade-off of 3D Gaussian Splatting through
 ## News
 
 
-- **[2026-10-01]** Paper released.
+- **[2026-10-01]** Paper released Code coming soon.
 
