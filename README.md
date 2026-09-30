@@ -1,6 +1,10 @@
-# EffGS-Efficient-and-High-Fidelity-Gaussian-Splatting
-EffGS: Efficient and High-Fidelity Gaussian Splatting
+# EffGS: Efficient and High-Fidelity Gaussian Splatting
 
-[View teaser PDF](assets/top.pdf)
 
-[View pipeline PDF](assets/pipeline.pdf)
+<p align="center">
+  <img src="assets/top.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/pipeline.png" width="100%">
+</p>
