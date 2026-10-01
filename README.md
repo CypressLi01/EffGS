@@ -1,6 +1,6 @@
 # EffGS: Efficient and High-Fidelity Gaussian Splatting
 
-<p align="center">
+<!-- <p align="center">
   <a href="PAPER_LINK"><strong>Paper</strong></a> |
   <a href="PROJECT_PAGE_LINK"><strong>Project Page</strong></a> 
 
@@ -8,7 +8,16 @@
 
 <p align="center">
   <img src="assets/top.png" width="100%">
+</p> -->
+<p align="center">
+  <a href="https://arxiv.org/abs/2609.39553"><strong>Paper</strong></a> |
+  <a href="https://github.com/CypressLi01/EffGS"><strong>Project Page</strong></a>
 </p>
+
+<p align="center">
+  <img src="assets/top.png" width="100%">
+</p>
+
 
 ## Overview
 
