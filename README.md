@@ -59,15 +59,17 @@ EffGS improves the quality-efficiency trade-off of 3D Gaussian Splatting through
 
 
 
+
 ## Citation
 
-If you find our work useful for your research, please consider citing:
+If you find our work useful in your research, please consider citing:
 
 ```bibtex
 @article{li2026effgs,
-  title={EffGS: Efficient and High-Fidelity Gaussian Splatting},
-  author={Li, Changbai and Yang, Shuo and Yang, Yichen and Shao, Shuwei and Tan, Huobin},
-  journal={arXiv preprint arXiv:2609.39553},
-  year={2026}
+  title   = {{EffGS}: Efficient and High-Fidelity Gaussian Splatting},
+  author  = {Li, Changbai and Yang, Shuo and Yang, Yichen and Shao, Shuwei and Tan, Huobin},
+  journal = {arXiv preprint arXiv:2609.39553},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2609.39553}
 }
 ```
